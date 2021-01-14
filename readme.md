@@ -6,7 +6,7 @@ This repository includes a [Jupyter notebook](Time-area-diagram.ipynb) that demo
 
 ![Example](out.gif)
 
-*Figure: Example demonstrating how the the hydrological response relates to time-area digram.*
+*Figure: Example demonstrating how the the hydrological response relates to the time-area diagram.*
 
 
 **References**
