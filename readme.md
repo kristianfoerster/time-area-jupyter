@@ -1,5 +1,3 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kristianfoerster/time-area-jupyter/HEAD?labpath=Time-area-diagram.ipynb)
-
 # Time-area diagram and the unit hydrograph
 
 Author: Kristian Förster
