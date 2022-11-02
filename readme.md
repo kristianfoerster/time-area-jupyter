@@ -1,10 +1,10 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kristianfoerster/time-area-jupyter/animation?labpath=Time-area-diagram.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kristianfoerster/time-area-jupyter/HEAD?labpath=Time-area-diagram.ipynb)
 
 # Time-area diagram and the unit hydrograph
 
 Author: Kristian Förster
 
-This repository includes a [Jupyter notebook](Time-area-diagram.ipynb) that demonstrates the theory underlying the time-area diagram and the unit hydrograph. Together with a tutorial with active student involvment (see Schulz et al., 2018), this Jupyter notebook is provided as teaching material in the course "Urban Hydrology" at Leibniz Universität Hannover.
+This repository includes a [Jupyter notebook](https://nbviewer.org/github/kristianfoerster/time-area-jupyter/blob/master/Time-area-diagram.ipynb) that demonstrates the theory underlying the time-area diagram and the unit hydrograph. Together with a tutorial with active student involvment (see Schulz et al., 2018), this Jupyter notebook is provided as teaching material in the course "Urban Hydrology" at Leibniz Universität Hannover.
 
 ![Example](out.gif)
 
